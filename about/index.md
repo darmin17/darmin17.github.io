@@ -17,3 +17,4 @@ Jurusan : Sistem Informasi<br>
 Fakultas : Sains dan Teknologi
 
 
+<img src="/assets/12494778_898424690283086_8481873357670213356_n.jpg">
