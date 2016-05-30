@@ -9,7 +9,7 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
-## Biodata
+##  Biodata
 Nama : Darmin Ritonga<br>
 Nim : 11353205418<br>
 Alamat : Perumahan Paradise<br>
