@@ -14,7 +14,7 @@ Nama : Darmin Ritonga<br>
 Nim : 11353205418<br>
 Alamat : Perumahan Paradise<br>
 Jurusan : Sistem Informasi<br>
-Fakultas : Sains dan Teknologi
+Fakultas : Sains dan Teknologi<br>
 [sistem informasi](sif.uin-suska.ac.id)<br>
 [Uin Suska](uin-suska.ac.id)<br>
 
