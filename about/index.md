@@ -5,7 +5,7 @@ tags: [about]
 modified: 2016-05-27T20:53:07.573882-04:00
 comments: true
 image:
-  feature: IMG201503080656200.jpg
+  feature: IMG20150308065620.jpg
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
